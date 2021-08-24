@@ -62,7 +62,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url(Images/Backgrounds/twelve.jpg);
+  background-image: url(../Images/Backgrounds/twelve.jpg);
   background-position: bottom center;
   background-size: 3500px;
   background-repeat: no-repeat;
@@ -108,7 +108,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url(Images/Backgrounds/pro12.jpg);
+  background-image: url(../Images/Backgrounds/pro12.jpg);
   background-position: bottom center;
   background-size: 3500px;
   background-repeat: no-repeat;
@@ -133,7 +133,7 @@ body {
   flex-direction: column;
   align-items: center;
   background-color: #fbfbfd;
-  background-image: url(Images/Backgrounds/fitness.jpg);
+  background-image: url(../Images/Backgrounds/fitness.jpg);
   background-position: bottom center;
   background-size: 1200px;
   background-repeat: no-repeat;
@@ -161,7 +161,7 @@ body {
   grid-row-gap: 0px;
 }
 .iwatch {
-  background-image: url(Images/Backgrounds/iwatch.jpg);
+  background-image: url(../Images/Backgrounds/iwatch.jpg);
   background-position: bottom center;
   background-size: 1450px;
   background-repeat: no-repeat;
@@ -169,7 +169,7 @@ body {
   grid-row: 1/2;
 }
 .ipad {
-  background-image: url(Images/Backgrounds/ipad.jpg);
+  background-image: url(../Images/Backgrounds/ipad.jpg);
   background-position: bottom center;
   background-size: 1450px;
   background-repeat: no-repeat;
@@ -179,7 +179,7 @@ body {
   margin-right: 15px;
 }
 .education {
-  background-image: url(Images/Backgrounds/education.jpg);
+  background-image: url(../Images/Backgrounds/education.jpg);
   grid-row: 2/3;
   background-position: bottom center;
   background-size: 1450px;
@@ -188,7 +188,7 @@ body {
 }
 .arcade {
   background-color: #fbfbfd;
-  background-image: url(Images/Backgrounds/arcade.jpg);
+  background-image: url(../Images/Backgrounds/arcade.jpg);
   background-position: bottom center;
   background-size: 1450px;
   background-repeat: no-repeat;
@@ -199,7 +199,7 @@ body {
 }
 
 .card {
-  background-image: url(Images/Backgrounds/acard.jpg);
+  background-image: url(../Images/Backgrounds/acard.jpg);
   grid-row: 3/4;
   background-position: bottom center;
   background-size: 1450px;
@@ -207,7 +207,7 @@ body {
   margin-left: 15px;
 }
 .tvplus {
-  background-image: url(Images/Backgrounds/tvshow.jpg);
+  background-image: url(../Images/Backgrounds/tvshow.jpg);
   background-position: bottom center;
   background-size: 1450px;
   background-repeat: no-repeat;
